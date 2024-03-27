@@ -1,6 +1,6 @@
 let result = document.getElementById('result');
 let searchBtn = document.getElementById('search-btn');
-let url = "https://api.nationalize.io/?name=";
+// let url = "https://api.nationalize.io/?name=";
 
 
 let personName = "samnikal";
